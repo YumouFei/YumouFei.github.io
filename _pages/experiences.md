@@ -9,6 +9,6 @@ author_profile: true
 ## Education
 
 * <b>Peking University</b>
-    * School of Mathematical Science <span style="float:right;"> Sept 2020 - June 2024 (expected) </span>
+    * School of Mathematical Sciences <span style="float:right;"> Sept 2020 - June 2024 (expected) </span>
 
   
