@@ -8,5 +8,7 @@ author_profile: true
 
 ## Education
 
-+ B.S. in Mathematics, 2020-2024 (expected).
+* <b>Peking University</b>
+    * School of Mathematical Science <span style="float:right;"> Sept 2020 - June 2024 (expected) </span>
 
+  
