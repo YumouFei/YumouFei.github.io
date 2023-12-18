@@ -10,6 +10,7 @@ author_profile: true
 <b>Distribution-Free Testing of Decision Lists with a Sublinear Number of Queries</b><br>
 Xi Chen, <b>Yumou Fei</b>, Shyamal Patel<br>
 <i>submitted</i><br>
+[draft](https://yumoufei.github.io/files/Decision_List_Testing.pdf)
 
 <b>Quotients of Special Classes of Positroids</b><br>
 Zhixing Chen, <b>Yumou Fei</b>, Jiyang Gao, Yuxuan Sun, Yuchong Zhang<br>
