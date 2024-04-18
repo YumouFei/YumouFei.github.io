@@ -30,5 +30,5 @@ Jian Ding, <b>Yumou Fei</b>, Yuanzheng Wang<br>
 <b>Improved Approximation to First-Best Gains-from-Trade</b><br>
 <b>Yumou Fei</b><br>
 <i>International Conference on Web and Internet Economics (WINE), 2022</i>.<br>
-[arXiv](https://arxiv.org/abs/2205.00140) &nbsp;&nbsp;&nbsp;&nbsp; [WINE](https://link.springer.com/chapter/10.1007/978-3-031-22832-2_12) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://youtu.be/DKC2LL1QfPg)
+[arXiv](https://arxiv.org/abs/2205.00140) &nbsp;&nbsp;&nbsp;&nbsp; [WINE](https://link.springer.com/chapter/10.1007/978-3-031-22832-2_12) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=DKC2LL1QfPg)
 
