@@ -9,12 +9,12 @@ author_profile: true
 
 <b>Distribution-Free Testing of Decision Lists with a Sublinear Number of Queries</b><br>
 Xi Chen, <b>Yumou Fei</b>, Shyamal Patel<br>
-<i>submitted</i><br>
-[draft](https://yumoufei.github.io/files/Decision_List_Testing.pdf)
+To appear in <i> Annual ACM Symposium on Theory of Computing (STOC), 2024 </i><br>
+[arxiv](https://arxiv.org/abs/2404.11103) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Quotients of Special Classes of Positroids</b><br>
 Zhixing Chen, <b>Yumou Fei</b>, Jiyang Gao, Yuxuan Sun, Yuchong Zhang<br>
-Manuscript<br>
+<i>submitted</i><br>
 [arXiv](https://arxiv.org/abs/2311.05340) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Efficiently Matching Random Inhomogeneous Graphs via Degree Profiles</b><br>
@@ -24,8 +24,8 @@ Jian Ding, <b>Yumou Fei</b>, Yuanzheng Wang<br>
 
 <b>Two-State Spin Systems with Negative Interactions</b><br>
 <b>Yumou Fei</b>, Leslie Ann Goldberg, Pinyan Lu<br>
-To appear in <i>Innovations in Theoretical Computer Science Conference (ITCS), 2024</i>.<br>
-[arXiv](https://arxiv.org/abs/2309.04735) &nbsp;&nbsp;&nbsp;&nbsp;
+<i>Innovations in Theoretical Computer Science Conference (ITCS), 2024</i>.<br>
+[arXiv](https://arxiv.org/abs/2309.04735) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.45) &nbsp;&nbsp;&nbsp;&nbsp; [video](https://www.youtube.com/watch?v=soswCczqkPQ)
 
 <b>Improved Approximation to First-Best Gains-from-Trade</b><br>
 <b>Yumou Fei</b><br>
