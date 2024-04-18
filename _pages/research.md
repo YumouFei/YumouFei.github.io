@@ -25,9 +25,10 @@ Jian Ding, <b>Yumou Fei</b>, Yuanzheng Wang<br>
 <b>Two-State Spin Systems with Negative Interactions</b><br>
 <b>Yumou Fei</b>, Leslie Ann Goldberg, Pinyan Lu<br>
 <i>Innovations in Theoretical Computer Science Conference (ITCS), 2024</i>.<br>
-[arXiv](https://arxiv.org/abs/2309.04735) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.45) &nbsp;&nbsp;&nbsp;&nbsp; [video](https://www.youtube.com/watch?v=soswCczqkPQ)
+[arXiv](https://arxiv.org/abs/2309.04735) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.45) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=soswCczqkPQ)
 
 <b>Improved Approximation to First-Best Gains-from-Trade</b><br>
 <b>Yumou Fei</b><br>
 <i>International Conference on Web and Internet Economics (WINE), 2022</i>.<br>
-[arXiv](https://arxiv.org/abs/2205.00140) &nbsp;&nbsp;&nbsp;&nbsp; [WINE](https://link.springer.com/chapter/10.1007/978-3-031-22832-2_12)
+[arXiv](https://arxiv.org/abs/2205.00140) &nbsp;&nbsp;&nbsp;&nbsp; [WINE](https://link.springer.com/chapter/10.1007/978-3-031-22832-2_12) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://youtu.be/DKC2LL1QfPg)
+
