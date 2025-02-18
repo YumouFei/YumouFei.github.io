@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an undergraduate student at the [School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/), where my area of concentration is [probability](https://pkuprobability.com/studies/undergraduate/).
-
-My research interests lie broadly in theoretical computer science, probability theory and combinatorics. 
+Hi! I am a graduate student in [EECS at MIT](https://www.eecs.mit.edu/), specializing in [theory of computation](https://toc.csail.mit.edu/). I'm an undergraduate student at the [School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/), with a concentration in [probability](https://pkuprobability.com/studies/undergraduate/). During my undergraduate years, I was fortunate to receive guidance and support from Professors Xi Chen, Jian Ding, and Pinyan Lu.
