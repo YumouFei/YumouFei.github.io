@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yumou Fei"
   avatar           : "profile.png"
-  bio              : "Undergraduate at Peking University"
-  location         : "Beijing, China"
+  bio              : "Graduate Student at MIT"
+  location         : "Massachusetts, US"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "feiym2002@stu.pku.edu.cn"
+  email            : "yumou415@mit.edu"
   # researchgate     :  example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
