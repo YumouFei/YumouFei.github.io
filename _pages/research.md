@@ -12,7 +12,7 @@ Xi Chen, Yumou Fei, Shyamal Patel<br>
 <i> Annual ACM Symposium on Theory of Computing (STOC), 2024 </i>.<br>
 [arxiv](https://arxiv.org/abs/2404.11103) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649717) &nbsp;&nbsp;&nbsp;&nbsp; [Shyamal's talk](https://www.youtube.com/watch?v=1cXY6JCV1P4)
 
-<b>Characterizing positroid quotients of uniform matroids</b><br>
+<b>Characterizing Positroid Quotients of Uniform Matroids</b><br>
 Zhixing Chen, Yumou Fei, Jiyang Gao, Yuxuan Sun, Yuchong Zhang<br>
 To appear in <i>International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC), 2025</i>.<br>
 [arXiv](https://arxiv.org/abs/2311.05340) &nbsp;&nbsp;&nbsp;&nbsp;
