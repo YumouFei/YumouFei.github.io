@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a graduate student in [EECS at MIT](https://www.eecs.mit.edu/), specializing in [theory of computation](https://toc.csail.mit.edu/). Previously, I was an undergraduate student at the [School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/), with a concentration in [probability](https://pkuprobability.com/studies/undergraduate/). During my undergraduate years, I was fortunate to receive guidance and support from Professors Xi Chen, Jian Ding, and Pinyan Lu.
+Hi! I'm a graduate student in the [theory of computation](https://toc.csail.mit.edu/) group at MIT, very fortunate to be advised by Dor Minzer and Ronitt Rubinfeld. Previously, I completed my undergraduate studies at the School of Mathematical Sciences, Peking University. I'm deeply grateful to Professors Xi Chen, Jian Ding, and Pinyan Lu for their guidance and support during my undergraduate years.
