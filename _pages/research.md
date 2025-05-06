@@ -8,7 +8,7 @@ author_profile: true
 *Authors are in alphabetical order.*
 
 <b>On the Spectral Expansion of Monotone Subsets of the Hypercube</b><br>
-Yumou Fei, Renato Ferreira Pinto Jr.
+Yumou Fei, Renato Ferreira Pinto Jr.<br>
 [arxiv](https://arxiv.org/abs/2505.02685) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Multi-Pass Streaming Lower Bounds for Approximating Max-Cut</b><br>
