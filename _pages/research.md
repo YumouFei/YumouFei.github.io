@@ -4,6 +4,7 @@ title: "Publications and Manuscripts"
 permalink: /research/
 author_profile: true
 ---
+{% include base_path %}
 
 *Authors are in alphabetical order.*
 
