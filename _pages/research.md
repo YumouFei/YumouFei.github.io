@@ -7,6 +7,14 @@ author_profile: true
 
 *Authors are in alphabetical order.*
 
+<b>On the Spectral Expansion of Monotone Subsets of the Hypercube</b><br>
+Yumou Fei, Renato Ferreira Pinto Jr.
+[arxiv](https://arxiv.org/abs/2505.02685) &nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>Multi-Pass Streaming Lower Bounds for Approximating Max-Cut</b><br>
+Yumou Fei, Dor Minzer, Shuo Wang<br>
+[arxiv](https://arxiv.org/abs/2503.23404) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>Distribution-Free Testing of Decision Lists with a Sublinear Number of Queries</b><br>
 Xi Chen, Yumou Fei, Shyamal Patel<br>
 <i> Annual ACM Symposium on Theory of Computing (STOC), 2024 </i>.<br>
