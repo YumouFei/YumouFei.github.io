@@ -30,8 +30,8 @@ Zhixing Chen, Yumou Fei, Jiyang Gao, Yuxuan Sun, Yuchong Zhang<br>
 
 <b>3. Efficiently Matching Random Inhomogeneous Graphs via Degree Profiles</b><br>
 Jian Ding, Yumou Fei, Yuanzheng Wang<br>
-To appear in <i>Annals of Statistics</i>.<br>
-[arXiv](https://arxiv.org/abs/2310.10441) &nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color: purple;">Annals of Statistics</span> 53(4), pp 1808-1832, 2025<br>
+[arXiv](https://arxiv.org/abs/2310.10441) &nbsp;&nbsp;&nbsp;&nbsp; [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-4/Efficiently-matching-random-inhomogeneous-graphs-via-degree-profiles/10.1214/25-AOS2545.full)
 
 <b>2. Two-State Spin Systems with Negative Interactions</b><br>
 Yumou Fei, Leslie Ann Goldberg, Pinyan Lu<br>
