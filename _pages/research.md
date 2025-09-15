@@ -36,8 +36,8 @@ Jian Ding, Yumou Fei, Yuanzheng Wang<br>
 <b>2. Two-State Spin Systems with Negative Interactions</b><br>
 Yumou Fei, Leslie Ann Goldberg, Pinyan Lu<br>
 <i>Innovations in Theoretical Computer Science Conference (ITCS), 2024</i>.<br>
-To appear in <i>Information and Computation</i>.<br>
-[arXiv](https://arxiv.org/abs/2309.04735) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.45) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=soswCczqkPQ)
+<span style="color: purple;">Information and Computation</span> 307, Article No. 105340, 2025<br>
+[arXiv](https://arxiv.org/abs/2309.04735) &nbsp;&nbsp;&nbsp;&nbsp; [journal](https://www.sciencedirect.com/science/article/abs/pii/S0890540125000768) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.45) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=soswCczqkPQ)
 
 <b>1. Improved Approximation to First-Best Gains-from-Trade</b><br>
 Yumou Fei<br>
