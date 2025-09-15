@@ -11,7 +11,7 @@ author_profile: true
 <b>7. On the Spectral Expansion of Monotone Subsets of the Hypercube</b><br>
 Yumou Fei, Renato Ferreira Pinto Jr.<br>
 <i>International Conference on Randomization and Computation (RANDOM), 2025</i>.<br>
-[arxiv](https://arxiv.org/abs/2505.02685) &nbsp;&nbsp;&nbsp;&nbsp;
+[arxiv](https://arxiv.org/abs/2505.02685) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2025.42)
 
 <b>6. Multi-Pass Streaming Lower Bounds for Approximating Max-Cut</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
