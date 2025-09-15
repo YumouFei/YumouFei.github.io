@@ -20,7 +20,7 @@ To appear in <i>IEEE Symposium on Foundations of Computer Science (FOCS), 2025</
 
 <b>5. Distribution-Free Testing of Decision Lists with a Sublinear Number of Queries</b><br>
 Xi Chen, Yumou Fei, Shyamal Patel<br>
-<i> Annual ACM Symposium on Theory of Computing (STOC), 2024 </i>.<br>
+<i> Annual ACM Symposium on Theory of Computing (STOC), 2024</i>.<br>
 [arxiv](https://arxiv.org/abs/2404.11103) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649717) &nbsp;&nbsp;&nbsp;&nbsp; [Shyamal's talk](https://www.youtube.com/watch?v=1cXY6JCV1P4)
 
 <b>4. Characterizing Positroid Quotients of Uniform Matroids</b><br>
@@ -30,13 +30,13 @@ Zhixing Chen, Yumou Fei, Jiyang Gao, Yuxuan Sun, Yuchong Zhang<br>
 
 <b>3. Efficiently Matching Random Inhomogeneous Graphs via Degree Profiles</b><br>
 Jian Ding, Yumou Fei, Yuanzheng Wang<br>
-<span style="color: purple;">Annals of Statistics</span> 53(4), pp 1808-1832, 2025<br>
+<span style="color: purple;">Annals of Statistics</span> 53(4), pp 1808-1832, 2025.<br>
 [arXiv](https://arxiv.org/abs/2310.10441) &nbsp;&nbsp;&nbsp;&nbsp; [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-4/Efficiently-matching-random-inhomogeneous-graphs-via-degree-profiles/10.1214/25-AOS2545.full)
 
 <b>2. Two-State Spin Systems with Negative Interactions</b><br>
 Yumou Fei, Leslie Ann Goldberg, Pinyan Lu<br>
 <i>Innovations in Theoretical Computer Science Conference (ITCS), 2024</i>.<br>
-<span style="color: purple;">Information and Computation</span> 307, Article No. 105340, 2025<br>
+<span style="color: purple;">Information and Computation</span> 307, Article No. 105340, 2025.<br>
 [arXiv](https://arxiv.org/abs/2309.04735) &nbsp;&nbsp;&nbsp;&nbsp; [journal](https://www.sciencedirect.com/science/article/abs/pii/S0890540125000768) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.45) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=soswCczqkPQ)
 
 <b>1. Improved Approximation to First-Best Gains-from-Trade</b><br>
