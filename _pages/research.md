@@ -8,6 +8,10 @@ author_profile: true
 
 *Authors are in alphabetical order.*
 
+<b>8. A Dichotomy Theorem for Multi-Pass Streaming CSPs</b><br>
+Yumou Fei, Dor Minzer, Shuo Wang<br>
+[arxiv](https://arxiv.org/abs/2509.11399) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>7. On the Spectral Expansion of Monotone Subsets of the Hypercube</b><br>
 Yumou Fei, Renato Ferreira Pinto Jr.<br>
 <i>International Conference on Randomization and Computation (RANDOM), 2025</i>.<br>
