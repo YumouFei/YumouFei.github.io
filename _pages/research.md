@@ -8,6 +8,10 @@ author_profile: true
 
 *Authors are in alphabetical order.*
 
+<b>9. Unbounded-width CSPs are Untestable in a Sublinear Number of Queries</b><br>
+Yumou Fei<br>
+[arxiv](https://arxiv.org/abs/2510.27012) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>8. A Dichotomy Theorem for Multi-Pass Streaming CSPs</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
 [arxiv](https://arxiv.org/abs/2509.11399) &nbsp;&nbsp;&nbsp;&nbsp;
