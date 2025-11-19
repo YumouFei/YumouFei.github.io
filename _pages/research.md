@@ -24,7 +24,7 @@ Yumou Fei, Renato Ferreira Pinto Jr.<br>
 <b>6. Multi-Pass Streaming Lower Bounds for Approximating Max-Cut</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
 To appear in <i>IEEE Symposium on Foundations of Computer Science (FOCS), 2025</i>.<br>
-[arxiv](https://arxiv.org/abs/2503.23404) &nbsp;&nbsp;&nbsp;&nbsp;
+[arxiv](https://arxiv.org/abs/2503.23404) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=BzxHO3y0HEs)
 
 <b>5. Distribution-Free Testing of Decision Lists with a Sublinear Number of Queries</b><br>
 Xi Chen, Yumou Fei, Shyamal Patel<br>
