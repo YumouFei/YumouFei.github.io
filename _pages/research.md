@@ -14,6 +14,7 @@ Yumou Fei<br>
 
 <b>8. A Dichotomy Theorem for Multi-Pass Streaming CSPs</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
+To appear in <i> Annual ACM Symposium on Theory of Computing (STOC), 2026 </i>.<br>
 [arxiv](https://arxiv.org/abs/2509.11399) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>7. On the Spectral Expansion of Monotone Subsets of the Hypercube</b><br>
@@ -23,8 +24,8 @@ Yumou Fei, Renato Ferreira Pinto Jr.<br>
 
 <b>6. Multi-Pass Streaming Lower Bounds for Approximating Max-Cut</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
-To appear in <i>IEEE Symposium on Foundations of Computer Science (FOCS), 2025</i>.<br>
-[arxiv](https://arxiv.org/abs/2503.23404) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=BzxHO3y0HEs)
+<i> IEEE Symposium on Foundations of Computer Science (FOCS), 2025</i>.<br>
+[arxiv](https://arxiv.org/abs/2503.23404) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS](https://ieeexplore.ieee.org/document/11369118) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=BzxHO3y0HEs)
 
 <b>5. Distribution-Free Testing of Decision Lists with a Sublinear Number of Queries</b><br>
 Xi Chen, Yumou Fei, Shyamal Patel<br>
