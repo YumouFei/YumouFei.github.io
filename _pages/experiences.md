@@ -10,7 +10,3 @@ author_profile: true
 
 * <b>Peking University</b>
     * School of Mathematical Sciences <span style="float:right;"> Sept 2020 - June 2024 </span>
-
-## Review Service
-
-* Conference review: ICALP 2025
