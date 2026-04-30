@@ -43,7 +43,8 @@ Xi Chen, Yumou Fei, Shyamal Patel<br>
 <b>4. Characterizing Positroid Quotients of Uniform Matroids</b><br>
 Zhixing Chen, Yumou Fei, Jiyang Gao, Yuxuan Sun, Yuchong Zhang<br>
 <i>International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC), 2025</i>.<br>
-[arXiv](https://arxiv.org/abs/2311.05340) &nbsp;&nbsp;&nbsp;&nbsp; [FPSAC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2025/109.pdf)
+<span style="color: purple;">Algebraic Combinatorics</span> 9(2), pp 481-498, 2026.<br>
+[arXiv](https://arxiv.org/abs/2311.05340) &nbsp;&nbsp;&nbsp;&nbsp; [journal](https://alco.centre-mersenne.org/articles/10.5802/alco.475/) &nbsp;&nbsp;&nbsp;&nbsp; [FPSAC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2025/109.pdf)
 
 <b>3. Efficiently Matching Random Inhomogeneous Graphs via Degree Profiles</b><br>
 Jian Ding, Yumou Fei, Yuanzheng Wang<br>
