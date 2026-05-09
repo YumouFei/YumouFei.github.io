@@ -28,12 +28,12 @@ To appear in <i> Annual ACM Symposium on Theory of Computing (STOC), 2026</i>.<b
 <b>7. On the Spectral Expansion of Monotone Subsets of the Hypercube</b><br>
 Yumou Fei, Renato Ferreira Pinto Jr.<br>
 <i>International Conference on Randomization and Computation (RANDOM), 2025</i>.<br>
-[arxiv](https://arxiv.org/abs/2505.02685) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2025.42)
+[arxiv](https://arxiv.org/abs/2505.02685) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2025.42) &nbsp;&nbsp;&nbsp;&nbsp; [my exposition](https://yumoufei.github.io/files/Master_s_Thesis.pdf)
 
 <b>6. Multi-Pass Streaming Lower Bounds for Approximating Max-Cut</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
 <i> IEEE Symposium on Foundations of Computer Science (FOCS), 2025</i>.<br>
-[arxiv](https://arxiv.org/abs/2503.23404) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS](https://ieeexplore.ieee.org/document/11369118) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=BzxHO3y0HEs)
+[arxiv](https://arxiv.org/abs/2503.23404) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS](https://ieeexplore.ieee.org/document/11369118) &nbsp;&nbsp;&nbsp;&nbsp; [my talk](https://www.youtube.com/watch?v=BzxHO3y0HEs) &nbsp;&nbsp;&nbsp;&nbsp; [my exposition](https://yumoufei.github.io/files/Master_s_Thesis.pdf)
 
 <b>5. Distribution-Free Testing of Decision Lists with a Sublinear Number of Queries</b><br>
 Xi Chen, Yumou Fei, Shyamal Patel<br>
