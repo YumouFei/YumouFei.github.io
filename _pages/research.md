@@ -8,26 +8,34 @@ author_profile: true
 
 *Authors are in alphabetical order.*
 
+<b>12. Testing Bipartiteness in Logarithmic Rounds</b><br>
+Yumou Fei, Ronitt Rubinfeld<br>
+[arxiv](https://arxiv.org/abs/2606.13583) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>11. Near-Optimal Space Lower Bounds for Streaming CSPs</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
+To appear in <i> IEEE Symposium on Foundations of Computer Science (FOCS), 2026</i>.<br>
 [arxiv](https://arxiv.org/abs/2604.01400) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>10. Testing Properties of Edge Distributions</b><br>
 Yumou Fei<br>
+To appear in <i> IEEE Symposium on Foundations of Computer Science (FOCS), 2026</i>.<br>
 [arxiv](https://arxiv.org/abs/2603.22702) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>9. Unbounded-width CSPs are Untestable in a Sublinear Number of Queries</b><br>
 Yumou Fei<br>
+To appear in <i> International Conference on Randomization and Computation (RANDOM), 2026</i>.<br>
 [arxiv](https://arxiv.org/abs/2510.27012) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>8. A Dichotomy Theorem for Multi-Pass Streaming CSPs</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
-To appear in <i> Annual ACM Symposium on Theory of Computing (STOC), 2026</i>.<br>
-[arxiv](https://arxiv.org/abs/2509.11399) &nbsp;&nbsp;&nbsp;&nbsp;
+<i> Annual ACM Symposium on Theory of Computing (STOC), 2026</i>.<br>
+[arxiv](https://arxiv.org/abs/2509.11399) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/abs/10.1145/3798129.3800744) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>7. On the Spectral Expansion of Monotone Subsets of the Hypercube</b><br>
 Yumou Fei, Renato Ferreira Pinto Jr.<br>
 <i>International Conference on Randomization and Computation (RANDOM), 2025</i>.<br>
+To appear in <span style="color: purple;">Annals of Probability</span>.<br>
 [arxiv](https://arxiv.org/abs/2505.02685) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2025.42) &nbsp;&nbsp;&nbsp;&nbsp; [my exposition](https://yumoufei.github.io/files/Master_s_Thesis.pdf)
 
 <b>6. Multi-Pass Streaming Lower Bounds for Approximating Max-Cut</b><br>
