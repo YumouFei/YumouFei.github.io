@@ -8,8 +8,13 @@ author_profile: true
 
 *Authors are in alphabetical order.*
 
+<b>13. On the Hardness of 4-to-1 Games with Perfect Completeness</b><br>
+Yumou Fei, Dor Minzer, Shuo Wang<br>
+[arxiv](https://arxiv.org/abs/2610.12378) &nbsp;&nbsp;&nbsp;&nbsp; [Quanta](https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>12. Testing Bipartiteness in Logarithmic Rounds</b><br>
 Yumou Fei, Ronitt Rubinfeld<br>
+To appear in <i> ACM-SIAM Symposium on Discrete Algorithms (SODA), 2027</i>.<br>
 [arxiv](https://arxiv.org/abs/2606.13583) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>11. Near-Optimal Space Lower Bounds for Streaming CSPs</b><br>
@@ -24,8 +29,8 @@ To appear in <i> IEEE Symposium on Foundations of Computer Science (FOCS), 2026<
 
 <b>9. Unbounded-width CSPs are Untestable in a Sublinear Number of Queries</b><br>
 Yumou Fei<br>
-To appear in <i> International Conference on Randomization and Computation (RANDOM), 2026</i>.<br>
-[arxiv](https://arxiv.org/abs/2510.27012) &nbsp;&nbsp;&nbsp;&nbsp;
+<i> International Conference on Randomization and Computation (RANDOM), 2026</i>.<br>
+[arxiv](https://arxiv.org/abs/2510.27012) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2026.31) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>8. A Dichotomy Theorem for Multi-Pass Streaming CSPs</b><br>
 Yumou Fei, Dor Minzer, Shuo Wang<br>
